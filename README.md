@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 😄 I am Tung.
+- ⚡ I work with biomodical sciences data, research tools and applied software.
+- 🔭 I am currently leading the technical development of [BioModels repository](https://www.ebi.ac.uk/biomodels) and maintenance of BioModels' mature services. BioModels is one of the teams of [Henning Hermjakob](https://www.ebi.ac.uk/about/people/henning-hermjakob)'s group, a service group in [EMBL's European Bioinformatics Institute](https://www.ebi.ac.uk).
+- 📫 You can find more info about me on [my professional website](https://ntung.github.io/).
